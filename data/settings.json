@@ -1,0 +1,47 @@
+{
+  "sidebar": [
+    {
+      "section": "Documentación",
+      "topics": [
+        {
+          "title": "Repositorio",
+          "slug": "repositorio"
+        },
+        {
+          "title": "Recibos",
+          "slug": "recibos"
+        },
+          {
+            "title": "Firmador",
+            "slug": "firmador"
+          }
+      ]
+    },
+    {
+      "section": "Administración",
+      "topics": [
+        {
+          "title": "Organización",
+          "slug": "organizacion"
+        },
+        {
+          "title": "Usuarios",
+          "slug": "usuarios-organizacion"
+        }
+      ]
+    },
+    {
+      "section": "versiones",
+      "topics": [
+        {
+          "title": "Ultimo release",
+          "slug": "last-release"
+        },
+        {
+          "title": "Changelog",
+          "slug": "changelog"
+        }
+      ]
+    }
+  ]
+}
