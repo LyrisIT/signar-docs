@@ -11,14 +11,14 @@
       </a>
     </div> -->
 
-    <div :style="{ maxWidth: '100%'}">
-      <VueCompareImage :sliderPositionPercentage="0.2" leftLabel="Antes" :leftImage="leftUrl" rightLabel="Despues" :rightImage="rightUrl" />
+    <div class="image-container" :style="{ maxWidth: '100%'}">
+      <VueCompareImage :sliderPositionPercentage="0.2" leftLabel="Antes" :leftImage="$withBase(leftUrl)" rightLabel="Despues" :rightImage="$withBase(rightUrl)" />
     </div>
 
     <div class="tab">
-      <a class="tablinks left-one" :href="leftUrl" target="_blank" :class="{'active': active == 'left'}">Link&nbsp;↪</a>
+      <a class="tablinks left-one" :href="$withBase(leftUrl)" target="_blank" :class="{'active': active == 'left'}">Link&nbsp;↪</a>
       <div class="filler"></div>
-      <a class="tablinks right-one" :href="rightUrl" target="_blank" :class="{'active': active == 'right'}">Link&nbsp;↪</a>
+      <a class="tablinks right-one" :href="$withBase(rightUrl)" target="_blank" :class="{'active': active == 'right'}">Link&nbsp;↪</a>
     </div>
   </div>
 </template>
@@ -55,6 +55,10 @@ export default {
   .right-one{
     padding-right: 0;
   }
+}
+
+.image-container{
+  border: 1px solid $textColor;
 }
 .image{
   width: 100%;

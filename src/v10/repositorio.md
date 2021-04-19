@@ -1,7 +1,7 @@
 # Nuevo repositorio
 
 <ClientOnly>
-  <ImageCompare left-url="https://guillecro.com/furfiesta/01.jpg" right-url="https://guillecro.com/furfiesta/02.jpg"/>
+  <ImageCompare left-url="/images/v10/repositorio/oldversion.png" right-url="/images/v10/repositorio/newversion.png"/>
 </ClientOnly>
 
 Hemos cambiado la forma en que ves el listado de tus documentos en el repositorio de Signar.
