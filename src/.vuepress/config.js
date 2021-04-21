@@ -38,8 +38,8 @@ module.exports = {
       //   link: '/guide/',
       // },
       {
-        text: 'Ultima versión',
-        link: '/v10/'
+        text: 'Release Notes',
+        link: '/release-notes/'
       },
       {
         text: 'Ir a la app',
@@ -47,9 +47,9 @@ module.exports = {
       }
     ],
     sidebar: {
-      // '/guide/': [
+      // '/repositorio/': [
       //   {
-      //     title: 'Guide',
+      //     title: '',
       //     collapsable: false,
       //     children: [
       //       '',
@@ -57,16 +57,13 @@ module.exports = {
       //     ]
       //   }
       // ],
-      '/v10/': [
+      '/release-notes/': [
         {
-          title: 'Ultima versión',
+          title: 'Release Notes',
           collapsable: false,
           children: [
             '',
-            'repositorio',
-            'visualizador-documentos',
-            'listado-recibos',
-            'mejoras-ux-ui',
+            '10.0'
           ]
         }
       ],

@@ -17,7 +17,7 @@
 
     <div class="tab">
       <a class="tablinks left-one" :href="$withBase(leftUrl)" target="_blank" :class="{'active': active == 'left'}">Link&nbsp;↪</a>
-      <div class="filler"></div>
+      <div class="filler">{{description}}</div>
       <a class="tablinks right-one" :href="$withBase(rightUrl)" target="_blank" :class="{'active': active == 'right'}">Link&nbsp;↪</a>
     </div>
   </div>
@@ -27,7 +27,7 @@
 import VueCompareImage from "vue-compare-image";
 
 export default {
-  props: ["leftUrl", "rightUrl"],
+  props: ["leftUrl", "rightUrl", "description"],
   data() {
     return {
 
@@ -47,6 +47,11 @@ export default {
   justify-content: center;
   .filler{
     width: 100%;
+    // padding: 5px 20px 0px;
+    font-style: italic;
+    padding: 0px 9% 0px;
+    text-align:center;
+    // font-size: 12px;
   }
   font-size: 0.85rem;
   .left-one{
