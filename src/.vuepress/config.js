@@ -42,7 +42,11 @@ module.exports = {
         link: '/release-notes/'
       },
       {
-        text: 'Ir a la app',
+        text: 'Soporte',
+        link: 'https://soporte-lyris.atlassian.net/servicedesk/customer/portals'
+      },
+      {
+        text: 'Ir a Signar',
         link: 'https://signar.com.ar'
       }
     ],
@@ -76,5 +80,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    'vuepress-plugin-chart'
   ]
 }

@@ -11,9 +11,7 @@ Bienvenidos a nuestras notas de Release. Con cada nueva versión, queremos compa
 | 10.0 | Abril 2021 | [Release Note](./10.0.md) |
 
 
-::: tip ¿Algun bug o feature para reportar?
-Puede contactarnos a travez de nuestro [Centro de ayuda de Lyris IT](https://soporte-lyris.atlassian.net/servicedesk/customer/portals).
-
-Nuestros clientes pueden iniciar sesión y acceder a los portales especificos de Signar para proponer features o reportar bugs.
+::: tip ¿Encontraste algún error?
+Podes contactarnos a traves de nuestro [Centro de ayuda de Lyris IT](https://soporte-lyris.atlassian.net/servicedesk/customer/portals).
 :::
 

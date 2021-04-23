@@ -16,9 +16,9 @@
     </div>
 
     <div class="tab">
-      <a class="tablinks left-one" :href="$withBase(leftUrl)" target="_blank" :class="{'active': active == 'left'}">Link&nbsp;↪</a>
+      <a class="tablinks left-one" :href="$withBase(leftUrl)" target="_blank">Link&nbsp;↪</a>
       <div class="filler">{{description}}</div>
-      <a class="tablinks right-one" :href="$withBase(rightUrl)" target="_blank" :class="{'active': active == 'right'}">Link&nbsp;↪</a>
+      <a class="tablinks right-one" :href="$withBase(rightUrl)" target="_blank">Link&nbsp;↪</a>
     </div>
   </div>
 </template>
