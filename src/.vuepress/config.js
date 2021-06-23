@@ -67,7 +67,14 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            '10.0'
+            {
+            title: 'Último release',
+            collapsable: false,
+            children: [
+              '10.0',
+              '10.1'
+            ]
+            }
           ]
         }
       ],

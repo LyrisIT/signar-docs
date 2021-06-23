@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo-dark.svg
 tagline: Documentación abierta de nuestro gestor documental Signar
-actionText: Conocé la ultima release →
+actionText: Conocé la última release →
 actionLink: /release-notes/10.0
 # features:
 # - title: Feature 1 Title
