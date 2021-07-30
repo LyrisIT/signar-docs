@@ -71,9 +71,18 @@ module.exports = {
             title: 'Último release',
             collapsable: false,
             children: [
-              '10.0',
-              '10.1'
+              '12.0'
             ]
+          },
+          {
+            title: 'Historial',
+            collapsable: false,
+            children: [
+                '11.0',
+                '10.2',
+                '10.1',
+                '10.0'
+              ]
             }
           ]
         }

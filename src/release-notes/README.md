@@ -8,8 +8,11 @@ Bienvenidos a nuestras notas de Release. Con cada nueva versión, queremos compa
 
 | Versión | Fecha lanzamiento | :link: |
 | --- | --- | --- |
-| 10.0 | Junio 2021 | [Release Notes](./10.0.md) |
+| 12.0 | Agosto 2021 | [Release Notes](./12.0.md) |
+| 11.0 | Julio 2021 | [Release Notes](./11.0.md) |
+| 10.2 | Junio 2021 | [Release Notes](./10.2.md) |
 | 10.1 | Junio 2021 | [Release Notes](./10.1.md) |
+| 10.0 | Junio 2021 | [Release Notes](./10.0.md) |
 
 
 ::: tip ¿Encontraste algún error?
