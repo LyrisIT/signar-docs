@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "vue-compare-image": "^0.2.0",
-    "vuepress-plugin-chart": "^0.1.7"
+    "vuepress-plugin-chart": "^0.1.9"
   }
 }
