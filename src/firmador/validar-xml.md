@@ -2,7 +2,7 @@
 
 | Version del documento | Fecha de publicación |
 | --- | --- |
-| 1.1 | 22/08/2021 |
+| 1.1 | 22/08/2023 |
 
 Una vez presionado este botón se podrá validar la firma XML, que debería ser utilizada para documentos que no sean pdf.
 

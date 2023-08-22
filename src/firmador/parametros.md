@@ -2,7 +2,7 @@
 
 | Version del documento | Fecha de publicación |
 | --- | --- |
-| 1.1 | 22/08/2021 |
+| 1.1 | 22/08/2023 |
 
 ## Clave de acceso de dispositivo
 

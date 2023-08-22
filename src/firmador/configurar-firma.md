@@ -2,7 +2,7 @@
 
 | Version del documento | Fecha de publicación |
 | --- | --- |
-| 1.1 | 22/08/2021 |
+| 1.1 | 22/08/2023 |
 
 Esta ventana tiene dos pestañas superiores, indicando el tipo de firma a aplicar, **Tipo de firma PDF o XML**. 
 
