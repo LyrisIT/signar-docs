@@ -33,10 +33,10 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     nav: [
-      // {
-      //   text: 'Guide',
-      //   link: '/guide/',
-      // },
+      {
+        text: 'Firmador',
+        link: '/firmador/',
+      },
       {
         text: 'Release Notes',
         link: '/release-notes/'
@@ -51,16 +51,25 @@ module.exports = {
       }
     ],
     sidebar: {
-      // '/repositorio/': [
-      //   {
-      //     title: '',
-      //     collapsable: false,
-      //     children: [
-      //       '',
-      //       'using-vue',
-      //     ]
-      //   }
-      // ],
+      '/firmador/': [
+        {
+          title: 'Firmador',
+          collapsable: false,
+          children: [
+            '',
+          ]
+        },
+        {
+          title: 'Uso del firmador',
+          collapsable: false,
+          children: [
+            'parametros',
+            'configurar-firma',
+            'firmar-documentos',
+            'validar-xml',
+          ]
+        }
+      ],
       '/release-notes/': [
         {
           title: 'Release Notes',
@@ -93,6 +102,11 @@ module.exports = {
           ]
         }
       ],
+    }
+  },
+  markdown: {
+    toc: {
+      includeLevel: [2, 3, 4]
     }
   },
 
