@@ -7,7 +7,7 @@
 Para poder ejecutar el proyecto, es necesario tener instalado:
 - NodeJS v10.x+
 
-## Instalacion
+## Instalación
 
 Para instalar las dependencias, ejecutar el siguiente comando:
 
@@ -31,9 +31,9 @@ Para generar el sitio web estático, ejecutar el siguiente comando:
 npm run build
 ```
 
-## Publicar una nueva version
+## Publicar una nueva versión
 
-Para publicar una nueva version, primero commitear a `master` los cambios que se desean publicar. Si se desarrollo en otra rama, recordar hacer un merge a `master` antes de continuar.
+Para publicar una nueva versión, primero commitear a `master` los cambios que se desean publicar. Si se desarrollo en otra rama, recordar hacer un merge a `master` antes de continuar.
 
 Luego, sobre `master`, hay que crear un nuevo tag.
 

@@ -1,6 +1,6 @@
 # Validar XML
 
-| Version del documento | Fecha de publicación |
+| Versión del documento | Fecha de publicación |
 | --- | --- |
 | 1.1 | 22/08/2023 |
 

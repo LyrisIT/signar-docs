@@ -1,5 +1,12 @@
 const { description } = require('../../package')
 
+const { slugify: vuePressSlugify } = require("@vuepress/shared-utils");
+
+function customSlugifyToHandleBadges(str) {
+ // Remove badges and use original slugify function
+  return vuePressSlugify(str.replace(/<Badge[^>]*\/>/, ""));
+}
+
 module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
@@ -109,8 +116,10 @@ module.exports = {
     }
   },
   markdown: {
+    slugify: customSlugifyToHandleBadges,
     toc: {
-      includeLevel: [2, 3, 4]
+      includeLevel: [2, 3, 4],
+      slugify: customSlugifyToHandleBadges
     }
   },
 

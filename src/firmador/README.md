@@ -1,8 +1,8 @@
 # Introducción
 
-Este instructivo explica cómo se utiliza el firmador de escritorio. Este software se ejecuta en la máquina del usuario, quién lo invoca desde su computadora para firmar un documento almacenado en la misma. Requiere de la utilización de un token donde se almacena la clave del usuario y su correspondiente certificado de clave pública.
+Este instructivo explica cómo se utiliza el firmador de escritorio. Este software se ejecuta en la máquina del usuario, quien lo invoca desde su computadora para firmar un documento almacenado en la misma. Requiere de la utilización de un token donde se almacena la clave del usuario y su correspondiente certificado de clave pública.
 
-| Version del documento | Fecha de publicación |
+| Versión del documento | Fecha de publicación |
 | --- | --- |
 | 1.1 | 22/08/2023 |
 
@@ -12,7 +12,7 @@ Este instructivo explica cómo se utiliza el firmador de escritorio. Este softwa
 
 ## Requisitos
 
-* Contar con un token y sus drivers instalados previamente (Ver Instructivo de Instalación de driver del token en Windows o solicitar a Lyris IT)
+* Contar con un token y sus drivers instalados previamente (Ver Instructivo de Instalación de driver del token en Windows o solicitar a Lyris IT).
 * Contar con el módulo del firmador descargado en su computadora, lo cual se indica a continuación.
 
 ## Descarga e instalación
@@ -32,7 +32,7 @@ Dependiendo si el navegador es Firefox o Chrome, se visualiza de diferentes mane
 
 
 ::: details Mozilla Firefox
-**Si es Firefox**, aparece el siguiente botón en la barra de menú en la parte superior  donde debe presionar y abrir el archivo para ejecutar
+**Si es Firefox**, aparece el siguiente botón en la barra de menú en la parte superior  donde debe presionar y abrir el archivo para ejecutar:
 
 <img src='/images/firmador/image25.png' />
 :::
@@ -74,7 +74,7 @@ Una vez que se ha completado la instalación, se puede  cerrar la ventana.
 
 <img src='/images/firmador/image2.png' />
 
-En el escritorio aparece el icono de la aplicación, que es el siguiente:
+En el escritorio aparece el ícono de la aplicación, que es el siguiente:
 
 <img src='/images/firmador/image8.png' />
 
@@ -98,11 +98,11 @@ Si se visualiza el mensaje “Token detectado”, significa que se han realizado
 No retirar el token hasta terminar de utilizar el firmador
 :::
 
-Esta descarga se realiza si es la primera vez que se ejecuta el firmador.  En ejecuciones posteriores se puede omitir la descarga y ejecutar directamente desde el menú de inicio o escribiendo “Firmador Signar” en el buscador de windows, o desde el icono que se presentará en el escritorio que comentó anteriormente, tal como se indica a continuación.
+Esta descarga se realiza si es la primera vez que se ejecuta el firmador.  En ejecuciones posteriores se puede omitir la descarga y ejecutar directamente desde el menú de inicio o escribiendo “Firmador Signar” en el buscador de windows, o desde el ícono que se presentará en el escritorio que comentó anteriormente, tal como se indica a continuación.
 
 ## Ejecución
 
-Cada vez que se quiere ejecutar el firmador, buscar la aplicación en el menú de inicio o escribiendo “Firmador Signar” en el buscador de windows, o desde el icono que se presentará en el escritorio que comentó anteriormente.
+Cada vez que se quiere ejecutar el firmador, buscar la aplicación en el menú de inicio o escribiendo “Firmador Signar” en el buscador de Windows, o desde el icono que se presentará en el escritorio que comentó anteriormente.
 
 Tal como se indica a continuación y se ha detallado en el apartado anterior, si el token está conectado y previamente se ha instalado el driver del mismo, aparecerá la leyenda **Token detectado** en color verde. Si el software informa **Token no detectado** puede ser que el token no esté conectado o que el driver del token no esté correctamente instalado en su equipo.
 

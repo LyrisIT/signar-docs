@@ -1,12 +1,12 @@
 # Firmar documentos
 
-| Version del documento | Fecha de publicación |
+| Versión del documento | Fecha de publicación |
 | --- | --- |
 | 1.1 | 22/08/2023 |
 
 ## Agregar documentos
 
-El boton **Agregar documentos** permite al usuario agregar los documentos para firmar.
+El botón **Agregar documentos** permite al usuario agregar los documentos para firmar.
 
 Los mismos se pueden agregar de manera individual o en conjunto.
 
