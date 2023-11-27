@@ -12,7 +12,7 @@ Bienvenidos a nuestras notas de Release. Con cada nueva versión, queremos compa
 | 13.3 | Menor | Junio 2023 | [Release Notes](./13.3.md) |
 | 13.2 | Menor | Abril 2023 | [Release Notes](./13.2.md) |
 | 13.1 | Menor | Abril 2023 | [Release Notes](./13.1.md) |
-| **13.0** | <Badge type="tip" text="Mayor" vertical="middle"/> | Marzo 2023 | Próximamente |
+| **13.0** | <Badge type="tip" text="Mayor" vertical="middle"/> | Marzo 2023 | [Release Notes](./13.0.md) |
 | 12.6 | Menor | Febrero 2023 | [Release Notes](./12.6.md) |
 | 12.6 | Menor | Febrero 2022 | [Release Notes](./12.6.md) |
 | 12.5 | Menor | Diciembre 2021 | [Release Notes](./12.5.md) |

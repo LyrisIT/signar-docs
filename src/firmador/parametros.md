@@ -26,6 +26,6 @@ Aquí el usuario puede explicar, de manera opcional, la razón por la cual el do
 
 Cuatros botones se encuentran en la parte inferior de la ventana, los cuales son:
 
-- Botón **Configurar firma**: Para mas información le pedimos que vea el instructivo de [Configurar Firma](/firmador/configurar-firma.md)
-- Botones **Agregar documentos** y **Firmar**: Para mas información le pedimos que vea el instructivo de [Firmar Documentos](/firmador/firmar-documentos.md)
+- Botón **Configurar firma**: Para más información le pedimos que vea el instructivo de [Configurar Firma](/firmador/configurar-firma.md)
+- Botones **Agregar documentos** y **Firmar**: Para más información le pedimos que vea el instructivo de [Firmar Documentos](/firmador/firmar-documentos.md)
 - Botón **Validar XML**: Vea el instructivo de [Validar XML](/firmador/validar-xml.md)

@@ -6,7 +6,7 @@
 
 Esta ventana tiene dos pestañas superiores, indicando el tipo de firma a aplicar, **Tipo de firma PDF o XML**. 
 
-Para mas información sobre los tipos de firma, ver [Tipos de firma](/firmador/tipos.md)
+Para más información sobre los tipos de firma, ver [Tipos de firma](/firmador/tipos.md)
 
 
 [[toc]]

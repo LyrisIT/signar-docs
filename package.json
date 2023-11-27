@@ -1,7 +1,7 @@
 {
   "name": "signar-docs-vue",
   "version": "0.0.1",
-  "description": "Documentación online de la plataforma Signar, de Lyris IT. Dentro de la misma se encuentra información de los distintos modulos que ofrece Signar par ala gestión de documentos de forma digital, ademas de documentación técnica para desarrolladores y changelogs.",
+  "description": "Documentación online de la plataforma Signar, de Lyris IT. Dentro de la misma se encuentra información de los distintos módulos que ofrece Signar par ala gestión de documentos de forma digital, además de documentación técnica para desarrolladores y changelogs.",
   "main": "index.js",
   "authors": {
     "name": "Guillermo Croppi",
