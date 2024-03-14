@@ -88,13 +88,14 @@ module.exports = {
             title: 'Último release',
             collapsable: false,
             children: [
-              '14.0'
+              '14.1'
             ]
           },
           {
             title: 'Historial',
             collapsable: false,
             children: [
+                '14.0',
                 '13.4',	
                 '13.3',
                 '13.2',
