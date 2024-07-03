@@ -8,6 +8,7 @@ Bienvenidos a nuestras notas de Release. Con cada nueva versión, queremos compa
 
 | Versión | Tipo | Fecha lanzamiento | :link: |
 | --- | --- | --- | --- |
+| 14.3 | Menor | Mayo 2024 | [Release Notes](./14.3.md) |
 | 14.2 | Menor | Abril 2024 | [Release Notes](./14.2.md) |
 | 14.1 | Menor | Febrero 2024 | [Release Notes](./14.1.md) |
 | **14.0** | <Badge type="tip" text="Mayor" vertical="middle"/> | Diciembre 2023 | [Release Notes](./14.0.md) |

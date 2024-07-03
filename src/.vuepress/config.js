@@ -80,7 +80,7 @@ module.exports = {
       ],
       '/release-notes/': [
         {
-          title: 'Release Notes',
+          title: 'Release notes',
           collapsable: false,
           children: [
             '',
@@ -88,13 +88,14 @@ module.exports = {
             title: 'Último release',
             collapsable: false,
             children: [
-              '14.2'
+              '14.3'
             ]
           },
           {
             title: 'Historial',
             collapsable: false,
             children: [
+                '14.2',
                 '14.1',
                 '14.0',
                 '13.4',	
