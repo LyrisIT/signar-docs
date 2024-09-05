@@ -3,7 +3,7 @@ home: true
 heroImage: /logo-dark.svg
 tagline: Documentación abierta de nuestro gestor documental Signar
 actionText: Conocé la última release →
-actionLink: /release-notes/14.3.1
+actionLink: /release-notes/14.4
 # features:
 # - title: Signar Firmador
 #   details: Conocé cómo instalar y utilizar nuestro firmador de documentos aquí
