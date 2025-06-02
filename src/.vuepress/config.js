@@ -42,8 +42,12 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Firmador',
+        text: 'Firmador Desktop',
         link: '/firmador/',
+      },
+      {
+        text: 'Firmador Integrable',
+        link: '/firmadorint/',
       },
       {
         text: 'Release Notes',
@@ -59,9 +63,18 @@ module.exports = {
       }
     ],
     sidebar: {
+      '/firmadorint/': [
+        {
+          title: 'Firmador Integrable v3',
+          collapsable: false,
+          children: [
+            '',
+          ]
+        },
+      ],
       '/firmador/': [
         {
-          title: 'Firmador',
+          title: 'Firmador Desktop v1',
           collapsable: false,
           children: [
             '',
@@ -88,13 +101,14 @@ module.exports = {
             title: 'Último release',
             collapsable: false,
             children: [
-              '14.5'
+              '14.6'
             ]
           },
           {
             title: 'Historial',
             collapsable: false,
             children: [
+                '14.5',
                 '14.4',
                 '14.3.1',
                 '14.3',
