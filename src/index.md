@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo-dark.svg
-tagline: Documentación abierta de nuestro gestor documental Signar
+tagline: Documentación de nuestro gestor documental Signar
 actionText: Conocé la última release →
 actionLink: /release-notes/14.6
 # features:
@@ -14,10 +14,8 @@ actionLink: /release-notes/14.6
 footer: Hecho por Lyris IT
 ---
 
+<!-- ### Nueva sección - Signar Firmador <Badge type="warning" text="Nuevo"/>
 
----
-### Nueva sección - Signar Firmador <Badge type="warning" text="Nuevo"/>
+ Hemos agregado una nueva sección a la documentación de Signar, donde podrás encontrar información sobre nuestro firmador de documentos.
 
-Hemos agregado una nueva sección a la documentación de Signar, donde podrás encontrar información sobre nuestro firmador de documentos.
-
-Puedes acceder a la sección desde [aquí](/firmador/README.md).
+Puedes acceder a la sección desde [aquí](/firmador/README.md). -->
