@@ -1,6 +1,6 @@
 # Introducción
 
-Este instructivo explica cómo se utiliza el Firmador Integrable versión 3.0. Este software se ejecuta en la máquina del usuario, y se invoca desde la plataforma de Signar cada vez que el usuario desee firmar un documento. Puede requerir de la utilización de un token donde se almacena la clave del usuario y su correspondiente certificado de clave pública.
+Este instructivo explica cómo se utiliza el Firmador Integrable versión 3. Este software se ejecuta en la máquina del usuario, y se invoca desde la plataforma de Signar cada vez que el usuario desee firmar un documento. Puede requerir de la utilización de un token donde se almacena la clave del usuario y su correspondiente certificado de clave pública.
 
 [[toc]]
 
