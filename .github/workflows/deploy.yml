@@ -15,7 +15,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 16
           cache: 'npm'
 
       - name: Install dependencies
@@ -23,6 +23,8 @@ jobs:
 
       - name: Build VuePress
         run: npm run build
+        env:
+          NODE_OPTIONS: --openssl-legacy-provider
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
